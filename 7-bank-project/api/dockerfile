@@ -16,4 +16,8 @@ COPY . .
 EXPOSE 5000
 
 
+<<<<<<< HEAD
 CMD ["npm", "start"]
+=======
+CMD ["npm", "start"]
+>>>>>>> d6b0d293de538579440575aeb59a67692ea7279d
